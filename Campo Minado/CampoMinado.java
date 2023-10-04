@@ -2,7 +2,7 @@ package jogo;
 import java.util.Random;
 import java.util.Scanner;
 
-public class campominado {
+public class ampominado {
     public static void main(String[] args) {
 
         Scanner jogo = new Scanner(System.in);
