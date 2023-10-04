@@ -3,7 +3,7 @@ package jogo;
 import java.util.Scanner;
 import java.util.Random;
 
-public class ampo2 {
+public class CampoMinado2 {
     public static void main(String[] args) {
         
         Scanner game = new Scanner(System.in);
